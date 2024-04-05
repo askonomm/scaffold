@@ -4,10 +4,8 @@ import {createBrowserRouter, RouterProvider} from "react-router-dom";
 import routes from "./routes";
 import './index.css';
 
-const router = createBrowserRouter(routes);
-
-ReactDOM.createRoot(document.getElementById('root')).render(
+ReactDOM.createRoot(document.querySelector('#root')).render(
   <React.StrictMode>
-    <RouterProvider router={router} />
+    <RouterProvider router={createBrowserRouter(routes)} />
   </React.StrictMode>
 );

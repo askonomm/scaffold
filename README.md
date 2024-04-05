@@ -6,7 +6,7 @@ A React.js starter project for projects of all shapes and sizes. It comes with
 ## Structure
 
 - `src/`: Source code
-- `src/components/`: Reusable components d
+- `src/components/`: Reusable components
 - `src/pages/`: Page components
 - `src/hooks/`: Custom hooks
 - `public/`: Static files

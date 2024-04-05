@@ -17,6 +17,6 @@ A React.js starter project for projects of all shapes and sizes. It comes with
 ## Usage
 
 1. Clone the repository
-2. Install dependencies: `npm install`
-3. Start the development server to work on the project: `npm start`
-4. Build the project for deployment: `npm run build`
+2. Install dependencies: `yarn`
+3. Start the development server to work on the project: `yarn start`
+4. Build the project for deployment: `yarn build`

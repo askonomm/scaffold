@@ -8,5 +8,5 @@ export default function Blog(props) {
       Blog page :)
       <Footer />
     </>
-  )
+  );
 }

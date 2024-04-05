@@ -20,3 +20,7 @@ A React.js starter project for projects of all shapes and sizes. It comes with
 2. Install dependencies: `yarn`
 3. Start the development server to work on the project: `yarn start`
 4. Build the project for deployment: `yarn build`
+
+## Hooks
+
+- `useFetch` - Fetch data from an API
